@@ -177,7 +177,7 @@ local privilegiado</div>
         <h1>PREENCHA O FORMULÁRIO ABAIXO PARA MAIS INFORMAÇÕES</h1>
 
         <div class="form-wrap">
-            <a href="https://forms.gle/ZmfWU1pmZb2C4oW86" target="_blank">Link para o formulário</a>
+            <a href="https://forms.gle/ZmfWU1pmZb2C4oW86" target="_blank">Link para o formulário
                 <i class="fas fa-external-link-alt"></i>
             </a>
             <h2>Ou entre em contato pelo (66)99239-3949</h2>
