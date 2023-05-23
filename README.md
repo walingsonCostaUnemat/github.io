@@ -1,8 +1,4 @@
 
-<!DOCTYPE html>
-<!--[if IE 7]>
-<html class="ie ie7" lang="pt-BR">
-<![endif]-->
 <!--[if IE 8]>
 <html class="ie ie8" lang="pt-BR">
 <![endif]-->
@@ -172,10 +168,7 @@ cozinha e área de serviço.                </div>
             <div class="entrada">Venha morar nesse <br />
 local privilegiado</div>
         </div>
-   </div>
-
-
-    </div>
+  
 </div>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
 
